@@ -1,0 +1,11 @@
+
+streamlit
+youtube-transcript-api
+torch
+langchain-text-splitters
+langchain-huggingface
+langchain-community
+faiss-cpu
+transformers
+accelerate
+sentence-transformers
